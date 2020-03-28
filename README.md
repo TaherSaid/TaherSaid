@@ -1,2 +1,3 @@
 # TaherSaid
 Diabetique Project 
+description : Generally, diabetes is a kind of disease which is present in everybody as a hereditary so finding in the early stage may help to take precautions early and make us stay healthy for a long time. So in this application we provided entire details regarding diabetes regarding the occurrence and symptoms are shown and the precautions to be taken so the user just need to register into the application and search for the symptoms he is facing whenever he click on the symptoms then he will get the result based on types the types are analyzed in using code. It provides the steps to take and the doctor to consult to reduce the effect
