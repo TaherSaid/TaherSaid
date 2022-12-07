@@ -6,7 +6,7 @@
 ![followers](https://img.shields.io/github/followers/TaherSaid?style=social)
 ![stars](https://img.shields.io/github/stars/TaherSaid?style=social)
 
-- 🔭 I’m currently working from home :'(
+- 🔭 I’m currently working from home :)
 - 🌱 I’m currently working with **NodeJs&React**
 - 📫 How to reach me **saidtaher051@gmail.com**
 - 📄 Know about my experiences [Linkedin account](https://www.linkedin.com/in/taher-said-308255199)
