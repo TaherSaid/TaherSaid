@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm taher</h1>
+<h1>Hi 👋, I'm Taher</h1>
 <h3>A passionate Full stack developer from Tunisia</h3>
 
 ---
@@ -10,9 +10,9 @@
 - 🌱 I’m currently working with **NodeJs&React**
 - 📫 How to reach me **saidtaher051@gmail.com**
 - 📄 Know about my experiences [Linkedin account](https://www.linkedin.com/in/taher-said-308255199)
-- ⚡ Fun fact **Tom&jerrry fan** 
+- ⚡ Fun fact **Friends** 
 
-![Alt Text](https://i.pinimg.com/originals/60/a0/f3/60a0f3d69954fc69ee7cbd31a5963dc6.gif)
+![Alt Text](https://media1.popsugar-assets.com/files/thumbor/y1yV1leSQqY4K6c-XpGhg7NBD6c=/fit-in/750x396/top/filters:format_auto():upscale()/2014/05/01/887/n/1922283/1aa9487697676578_tumblr_lnwbd3wguh1qhzaruo1_r1_500.gif)
 
 ### 🛠 Tech Stack
 
